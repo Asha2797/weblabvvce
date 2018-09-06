@@ -1,0 +1,41 @@
+<html>
+		<head>
+			<title> square and cube 
+			</title>
+		<style>
+		table
+		{
+		border-collapse:collapse;
+	    text-align:center;
+		background-color:gray;
+		padding:1px;
+		}
+		
+		tr,th
+		{
+		background-color:lightblue;
+		padding:1px;
+		border:solid;
+		border-color:white;
+	    }
+		
+		
+		td
+		{
+	   background-color:gray;
+	   padding:1px;
+	   border:solid;
+        border-color:white;
+		}
+		</style>
+			<script>
+				document.write("<center><table> <tr> <th> Number </th> <th> Square</th> <th> Cube</th></tr></center>")
+				for(var i=0;i<=10;i++)
+				{
+					document.write("<tr><td>" + i +"</td><td>" +i*i +"</td><td>" +i*i*i+ "</td></tr>")
+				}
+				document.write("</table>");
+			</script>
+			
+		</head>
+</html>
