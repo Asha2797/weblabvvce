@@ -1,0 +1,48 @@
+Vtu
+{
+	margin-left:40%;
+	background-color:green;
+}
+
+student
+{
+	display:block;
+}
+
+usn
+{
+	display:block;
+	margin-left:-0.8%;
+	font-size:25px;
+	color:red;
+}
+
+name{
+	display:block;
+	font-size:25px;
+	color:black;
+}
+branch
+{
+	display:block;
+	font-size:25px;
+	color:yellow;
+}
+collage
+{
+	display:block;
+	font-size:25px;
+	color:gray;
+}
+year
+{
+	display:block;
+	font-size:25px;
+	color:pink;
+}
+e-mail
+{
+	display:block;
+	font-size:25px;
+	color:lightblue;
+}

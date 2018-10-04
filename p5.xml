@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="p5.css"?>
+
+<Vtu>
+<student>
+<usn> USN:4VV16CS400 </usn>
+<name> Name:Asha M R</name>
+<branch>Computer Science </branch>
+<collage> VVCE </collage>
+<year> Year:2018 </year>
+<e-mail>E-Mail:ashamrgowda23@gmial.com</e-mail>
+</student>
+
+<student>
+<usn> USN:4VV15EE128 </usn>
+<name> Name:Nischitha</name>
+<branch>Electronics </branch>
+<collage> VVCE </collage>
+<year> Year:2018 </year>
+<e-mail>E-Mail:nischitha@gmial.com</e-mail>
+</student>
+
+<student>
+<usn> USN:4VV16CV400 </usn>
+<name> Name:Nikhitha</name>
+<branch>Civil </branch>
+<collage> VVCE </collage>
+<year> Year:2018 </year>
+<e-mail>E-Mail:nikhitha@gmial.com</e-mail>
+</student>
+</Vtu>
+
